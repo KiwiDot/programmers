@@ -1,0 +1,6 @@
+// 두 수의 합
+package solution
+
+func solution(num1 int, num2 int) int {
+	return num1 + num2
+}

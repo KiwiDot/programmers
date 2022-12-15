@@ -1,7 +1,4 @@
 # 난이도 Lv. 0 - 옹알이 (1)
-import sys
-put = sys.stdin.readline
-
 def solution(babbling):
     answer = 0
     word = ["aya", "ye", "woo", "ma"]

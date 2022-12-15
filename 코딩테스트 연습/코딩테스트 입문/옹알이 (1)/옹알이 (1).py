@@ -1,4 +1,4 @@
-# 프로그래머스 Lv. 0 옹알이 (1)
+# 난이도 Lv. 0 - 옹알이 (1)
 import sys
 put = sys.stdin.readline
 
